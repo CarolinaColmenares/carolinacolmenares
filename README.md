@@ -13,7 +13,7 @@
 
 - 🤝 Otro proyecto anterior [Data-Lovers](https://github.com/CarolinaColmenares/Data-Lovers)
 
-- 📫 How to reach me **carolinacolmenares@gmail.com**
+- 📫 Escríbeme a mi correo: **yzcarcolmenares@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
