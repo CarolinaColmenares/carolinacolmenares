@@ -9,7 +9,7 @@
 
 - Conoce mi experiencia en **www.linkedin.com/in/carolinacolmenares256**
 
-- 🌱 Estoy aprendiendo de [React](https://github.com/CarolinaColmenares/SCL020-burger-queen)
+- 🌱 Estoy aprendiendo [React](https://github.com/CarolinaColmenares/SCL020-burger-queen)
 
 - 🤝 Otro proyecto anterior [Data-Lovers](https://github.com/CarolinaColmenares/Data-Lovers)
 
